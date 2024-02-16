@@ -47,9 +47,9 @@
 <?php
 //Connecting to the database
 $server = "tcp:techniondbcourse01.database.windows.net";
-$user = "diran0t";
+$user = "noor0nashef";
 $pass = "Qwerty12!";
-$database = "diran0t";
+$database = "noor0nashef";
 $c = array("Database" => $database, "UID" => $user, "PWD" => $pass);
 sqlsrv_configure('WarningsReturnAsErrors', 0);
 $conn = sqlsrv_connect($server, $c);
