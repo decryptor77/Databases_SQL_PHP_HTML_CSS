@@ -9,8 +9,8 @@ h2 {text-align: center;}
         height: 30%;
     }
 </style>
-<h1>Welcome to Netflix</h1>
-<h2>Here you can find all you need to know</h2>
+<h1>Netflix</h1>
+<h2>Providing all the Movie Data you need</h2>
 <center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg" alt="netflix">
 </center>
@@ -26,7 +26,7 @@ h2 {text-align: center;}
 <br>
 <br>
 <center>
-<h1>Longest movies for each year which satisfy the given condition</h1>
+<h1>Longest non US movies with a single director by year</h1>
 </center>
 <?php
 //Connecting to the database
